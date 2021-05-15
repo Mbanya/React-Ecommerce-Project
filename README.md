@@ -8,3 +8,5 @@ While building this i've learnt
 4. How to use State and Effect to update UI elements with API data
 5. How to pass props through multiple components
 6. How to build css using js file
+
+App is found here: https://vigorous-swirles-97045b.netlify.app
