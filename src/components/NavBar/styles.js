@@ -1,4 +1,4 @@
-import {makeStyles,fade} from "@material-ui/core";
+import {makeStyles} from "@material-ui/core";
 
 const drawerWidth = 0;
 
